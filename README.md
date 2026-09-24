@@ -35,5 +35,5 @@ drivers, working with microcontrollers, and exploring real-time systems.
 
 ### 🤝 Connect With Me
 
-- LinkedIn: [LinkedIn](linkedin.com/in/sakshi-profile )
+- LinkedIn: [LinkedIn](www.linkedin.com/in/sakshi-profile)
 - GitHub: [GitHub](https://github.com/sakshigowda2210-bot)
