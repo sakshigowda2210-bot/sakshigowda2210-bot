@@ -10,20 +10,22 @@ drivers, working with microcontrollers, and exploring real-time systems.
 
 ### 🔧 What I Work With
 
-- **Programming:** C, Embedded C, C++
-- **Microcontrollers:** ATmega328P, ESP32
-- **Embedded Concepts:** GPIO, PWM, Timers & Counters, Interrupts, Bare-Metal Programming
-- **Communication Protocols:** UART, SPI, I2C, 1-Wire
-- **RTOS:** FreeRTOS, Tasks, Queues, Mutexes, Event Groups
-- **Debugging & Testing:** Serial Monitor, Multimeter
-- **Simulation:** Wokwi
+- Programming: C, C++ (Arduino), Embedded C, Python
+- Embedded Systems: GPIO, PWM, Timers & Counters, Interrupts, Bare-Metal Programming
+- Communication Protocols: UART, SPI, I2C, One-Wire, CAN (basics)
+- RTOS: FreeRTOS — Tasks, Queues, Mutexes, Semaphores, Event Groups
+- Platforms: ATmega328P, ESP32, Arduino UNO
+- Embedded Linux: ARM Cross-Compilation, QEMU Emulation, Linux file-based GPIO/sensor interfaces (simulated)
+- Tools & Version Control: Git, GitHub, Arduino IDE, Wokwi
+
 
 ### 🚀 Featured Projects
 
-- 🔹 Bare-Metal Driver Development
-- 🔹 RTOS-Based Multitasking System
-- 🔹 Sensor Interface & Communication System
-- 🔹 Smart Blind Stick Using Arduino UNO
+- ATmega328P Bare-Metal Driver Development
+- RTOS-Based Multitasking System
+- Sensor Interface & Communication System
+- Smart Blind Stick Using Arduino UNO
+- GPIO & Sensor Logging on Embedded Linux (QEMU-Emulated ARM Target)
 
 ### 📚 Currently Learning
 
