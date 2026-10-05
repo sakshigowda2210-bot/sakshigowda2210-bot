@@ -16,9 +16,7 @@ drivers, working with microcontrollers, and exploring real-time systems.
 - RTOS: FreeRTOS — Tasks, Queues, Mutexes, Semaphores, Event Groups 
 - Platforms: ATmega328P, ESP32, Arduino UNO 
 - Embedded Linux: ARM Cross-Compilation, QEMU User-Mode Emulation, simulated GPIO/sensor interfaces, Ubuntu/WSL2
-- GPIO/sensor interfaces (simulated), Ubuntu on WSL2 
-- Familiar with (self-study): Embedded Linux boot flow (U-Boot, kernel, device tree, root filesystem), user space vs 
-- kernel space, system calls 
+- Familiar with (self-study): Embedded Linux boot flow (U-Boot, kernel, device tree, root filesystem), user space vs kernel space, system calls 
 - Tools & Version Control: Git, GitHub, Arduino IDE, Wokwi
 
 ### 🚀 Featured Projects
