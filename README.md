@@ -10,30 +10,28 @@ drivers, working with microcontrollers, and exploring real-time systems.
 
 ### 🔧 What I Work With
 
-- Programming: C, C++ (Arduino), Embedded C, Python
-- Embedded Systems: GPIO, PWM, Timers & Counters, Interrupts, Bare-Metal Programming
-- Communication Protocols: UART, SPI, I2C, One-Wire, CAN (basics)
-- RTOS: FreeRTOS — Tasks, Queues, Mutexes, Semaphores, Event Groups
-- Platforms: ATmega328P, ESP32, Arduino UNO
-- Embedded Linux: ARM Cross-Compilation, QEMU Emulation, Linux file-based GPIO/sensor interfaces (simulated)
+- Programming: C, Embedded C, Python 
+- Embedded Systems: GPIO, PWM, Timers & Counters, Interrupts, Bare-Metal Programming 
+- Communication Protocols: UART, SPI, I2C, CAN (basics) 
+- RTOS: FreeRTOS — Tasks, Queues, Mutexes, Semaphores, Event Groups 
+- Platforms: ATmega328P, ESP32, Arduino UNO 
+- Embedded Linux: ARM Cross-Compilation (arm-linux-gnueabihf-gcc), QEMU User-Mode Emulation, sysfs-style file-based 
+- GPIO/sensor interfaces (simulated), Ubuntu on WSL2 
+- Familiar with (self-study): Embedded Linux boot flow (U-Boot, kernel, device tree, root filesystem), user space vs 
+- kernel space, system calls 
 - Tools & Version Control: Git, GitHub, Arduino IDE, Wokwi
-
 
 ### 🚀 Featured Projects
 
 - ATmega328P Bare-Metal Driver Development
-- RTOS-Based Multitasking System
+- ESP32 FreeRTOS-Based Multitasking and Hardware Control System 
 - Sensor Interface & Communication System
 - Smart Blind Stick Using Arduino UNO
 - GPIO & Sensor Logging on Embedded Linux (QEMU-Emulated ARM Target)
 
-### 📚 Currently Learning
-
-- Embedded C
-- Microcontroller Programming
-- Bare-Metal Firmware Development
-- RTOS Concepts
-- Embedded Communication Protocols
+I also did the Embedded Systems for EV program at VisionAstraa (Feb–May 2026), covering EV architecture, BMS, BLDC motors and sensors. 
+ 
+I'm looking for an entry-level Embedded Software or Firmware role in automotive, IoT. 
 
 ### 🤝 Connect With Me
 
