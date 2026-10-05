@@ -1,6 +1,6 @@
 # Hi, I'm Sakshi 👋
 
-"Embedded Firmware Engineer (Fresher) | Embedded C | FreeRTOS | UART | SPI | I2C | GPIO | ATmega328P | ESP32"
+Embedded Firmware Engineer (Fresher) | Embedded C | FreeRTOS | UART | SPI | I2C | GPIO | ATmega328P | ESP32
 
 I'm an Electronics and Communication Engineering graduate interested in
 embedded software development and low-level firmware programming.
