@@ -1,6 +1,6 @@
 # Hi, I'm Sakshi 👋
 
-"ECE Graduate | Embedded Systems | Embedded C | FreeRTOS"
+"Embedded Firmware Engineer (Fresher) | Embedded C, FreeRTOS | UART, SPI, I2C, GPIO | ATmega328P, ESP32 | ECE ’26
 
 I'm an Electronics and Communication Engineering graduate interested in
 embedded software development and low-level firmware programming.
